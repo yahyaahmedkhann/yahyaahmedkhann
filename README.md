@@ -1,5 +1,5 @@
 <h1 align="center">Yahya Ahmed Khan</h1>
-<h3 align="center">A passionate sportsperson who loves watching & playing sports like Cricket, Football & Badminton. Educationally, An undergraduate major in Telecommunications Engineering while interest aligns in the field of Data Science & AI. Working hard with an aim to do something for this world.</h3>
+<p align="center">A passionate sportsperson who loves watching & playing sports like Cricket, Football & Badminton. Educationally, An undergraduate major in Telecommunications Engineering while interest aligns in the field of Data Science & AI. Working hard with an aim to do something for this world.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
